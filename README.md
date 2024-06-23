@@ -1,0 +1,1 @@
+# BanWordInspector_Version
